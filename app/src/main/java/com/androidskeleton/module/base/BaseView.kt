@@ -13,8 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package com.androidskeleton.module.base
 
-package com.androidskeleton.module.base;
-
-public interface BaseView<T> {
-}
+interface BaseView<T>
