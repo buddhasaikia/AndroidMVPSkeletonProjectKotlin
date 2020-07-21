@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidMVPSkeletonProjectKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidMVPSkeletonProjectKotlin.iml" group="AndroidMVPSkeletonProjectKotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidMVPSkeletonProjectKotlin-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidMVPSkeletonProjectKotlin-app.iml" group="AndroidMVPSkeletonProjectKotlin/app" />
       <module fileurl="file://$PROJECT_DIR$/AndroidSkeleton.iml" filepath="$PROJECT_DIR$/AndroidSkeleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidSkeletonProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidSkeletonProject.iml" group="AndroidSkeletonProject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidSkeletonProject-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidSkeletonProject-app.iml" group="AndroidSkeletonProject/app" />
